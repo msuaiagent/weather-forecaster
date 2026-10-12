@@ -203,7 +203,7 @@ Analyzing the code, we first load the weather data from the specified path using
 
 Hopefully, after running the *main.py* file, you should see an RMSE value printed to the console. This value represents the average magnitude of the errors between the predicted and actual values of temperature on the validation set. I got around 0.6298, so hopefully you got a similar value! This is a good starting point for our baseline model, and we can work on improving it next week!
 
-Congratulations! You've successfully built a baseline model for predicting weather conditions based on the data we collected from the Open-Meteo API. In the next week, we'll focus on improving the performance of our model by tuning hyperparameters, adding more features, and exploring different machine learning algorithms. Keep up the great work!
+Congratulations! You've successfully built a baseline model for predicting weather conditions based on the data we collected from the Open-Meteo API. In the next week, we'll focus on improving the performance of our model by tuning hyperparameters, adding more features, and learning about feature importance. Keep up the great work!
 
 If you have some extra time this week, it may be a good idea to look over some of the more conceptual topics we discussed this week, as they are important for understanding how to improve the performance of our model in the future. Maybe take a look at some of the documentation for the functions we used or look up and read about anything that you found confusing or interesting. This will help you better understand the concepts and techniques used in this project and improve your skills as a machine learning practitioner (and make better models!).
 
